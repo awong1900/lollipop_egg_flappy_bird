@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.awong.lollopop.egg;
+package com.awong.lollipop.egg;
 
 import android.animation.TimeAnimator;
 import android.content.Context;
@@ -43,7 +43,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import com.example.ui_vector.R;
+import com.awong.lollopop.egg.R;
 
 public class LLand extends FrameLayout {
 	public static final String TAG = "LLand";
